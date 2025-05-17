@@ -1,0 +1,13 @@
+.callout[data-callout="callout"] {
+    --callout-icon: lucide-align-justify;
+    --callout-color: 242, 233, 0;
+}
+.callout[data-callout="reminder"] {
+    --callout-icon: lucide-eye;
+    --callout-color: 2, 215, 242;
+}
+
+.callout[data-callout="r"] {
+    --callout-icon: lucide-align-justify;
+    --callout-color: 100, 100, 100;
+    }

@@ -1,0 +1,52 @@
+{
+  "obsidian-text-format:merge-line": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
+  "editor:add-cursor-above": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:add-cursor-below": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:table-col-after": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ]
+}

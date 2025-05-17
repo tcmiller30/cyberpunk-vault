@@ -1,0 +1,7 @@
+.markdown-rendered div:is(.el-p, .el-pre, .el-div, .el-hr, .el-table, .el-ul, .el-ol) + div > :is(h1,h2,h3,h4,h5,h6) {
+    margin-bottom: 1px;
+}
+
+.markdown-rendered p {
+    margin-block-start: 0px;
+}
