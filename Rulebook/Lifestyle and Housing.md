@@ -21,13 +21,7 @@ Sleeping in an uncomfortable situation will leave you fatigued the next day, whi
 1. **Being crammed**: sleeping in housing with a number of persons greater than 1 + the number of bedrooms. Persons unconscious in Cryo-stasis and corpses do not count toward this limit. A Cube Hotel is the only exception. Sleeping with more than one person in a cube is always sleeping uncomfortable and will leave you fatigued the next day.
 2. **Sleeping on the street**: Unless you make a successful DV15 Endurance Check, sleeping on the street will leave you fatigued. Sleeping on the street is also asking for trouble. 
 3. **Sleeping in the wilderness**: Unless you make a successful DV15 Wilderness Survival Check, sleeping in the wilderness will leave you fatigued. Unlike sleeping on the street, other persons can roll this Wilderness Survival Check for you. Nomad friends are nice to have.
-### The Big Money: Real Estate
-Likely, where you sleep will be your largest monthly expense. You may start out in a cargo container located outside of the city, but if you start saving up, you'll be able to move to a more secure arrangement in no time. 
-
-Or you could become an Exec, never have to pay rent, and live in comfortable security from the beginning ... just by selling your soul into Corporate slavery!
-
->[!callout]- Just remember, the game is rigged.
-
+### Real Estate
 
 | Real Estate                       | Cost to Rent (per month) | Cost to Purchase |
 | --------------------------------- | ------------------------ | ---------------- |

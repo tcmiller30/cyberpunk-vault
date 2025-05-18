@@ -129,3 +129,14 @@
 >[[Fixer#Role Ability Operator|Fixer]]
 >[[Nomad#Role Ability Moto|Nomad]]
 
+>[!callout]- Expenses
+>[[Lifestyle and Housing#Lifestyle|Lifestyle]]
+>[[Lifestyle and Housing#Real Estate|Housing]]
+>##### Weapons and Munition
+>[[Weapons and Gear#Ranged Weapons|Ranged Weapons]]
+>[[Weapons and Gear#Ammunition|Ammunition]]
+>[[Weapons and Gear#Melee Weapons|Melee Weapons]]
+>[[Weapons and Gear#Exotic Weapons|Exotic Weapons]]
+
+>[!callout]- Netrunning
+>
