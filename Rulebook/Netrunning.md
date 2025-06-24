@@ -30,7 +30,7 @@ The higher a Netrunner's Interface Rank, the more NET Actions they can take on t
 #### Jack In/Out
 Enter or safely leave a NET Architecture when within 6 m/yds of an access point. Typically, a wall between you and the access point will block this Action. If you leave a NET Architecture without jacking out first, you will be in a **world of pain**.
 #### Use Interface Ability
-All but one [[Netrunner#Role Ability Interface|Interface]] Ability requires the use of at least one NET Action.
+All but one [[Rulebook/Roles/Netrunner#Role Ability Interface|Interface]] Ability requires the use of at least one NET Action.
 #### Activate/Deactivate Program
 Activate or Deactivate one of your Programs
 #### Miscellaneous
@@ -81,6 +81,12 @@ Attempt to flee combat with a single Non-Demon Black ICE Program as a NET Action
 Once you have reached the lowest level of the NET Architecture you can leave your own Virus in the Architecture to perform up to 2 actions or changes, within reason. **Using this ability is the only way a Netrunner can make a change to a NET Architecture that persists after they Jack Out**. Describe to the GM what you want the virus to do, and they will assign a DV. **A more powerful Virus will require a higher DV to leave in the Architecture, as determined by the GM. Depending what you want to do, this can require as many NET Actions as the GM determines**. Roll a Virus Check. The DV to destroy a Virus is equal to the Virus Check made to create it. 
 
 **Example**: *After reaching the lowest level of an Architecture, the Netrunner wants to leave it worse than they found it. They explain to the GM that they want to leave a Virus in the Architecture that changes all the passwords in the Architecture every 5 minutes. The GM determines that placing such a Virus would take 9 NET Actions to leave in the Architecture and assigns a DV12. Over their next 3 Turns, the Netrunner spends all 3 of their NET Actions to complete the Virus, then rolls Interface (7) + 1d10... rolling only a 12. Their code just doesn't work so they decide to try again, spending another 9 NET Actions over another 3 Turns to try again, succeeding this time with a 15. When the Corporation later discovers the Netrunner's Virus, their Netrunner gets a headache while trying to clean up the DV15 Virus.*
+#### Virus Examples
+Here's some inspiration for Viruses and the time and DVs they might require to achieve. 
+- Virus which forcibly alters the icon of all Asp Black ICE installed into the Architecture from fierce serpents into cute little sneks wearing tiny party hats. DV6; 1 NET Action.
+- Virus which completely deactivates a particular Black ICE installed in the Architecture until the Virus is destroyed. DV10; 2 NET Actions. 
+- Virus which causes a Control Node to malfunction until the Virus is destroyed. DV10; 2 NET Actions. Virus which deletes all Black ICE installed in the Architecture permanently. DV 12; 10 NET Actions. 
+- Virus that causes catastrophic and lasting damage to the Net Architecture itself, halving the number of available floors permanently. DV 12; 10 NET Actions.
 ### Zap
 Allows you to make an attack as a NET Action against a Program or enemy Netrunner. If you are able to roll a successful Zap Check against the Program's Defense Value + 1d10 or the Netrunner's Interface + 1d10, you deal 1d6 damage to the Program's REZ or directly to the Netrunner's brain.
 
@@ -264,4 +270,5 @@ In the spirit of fitting the Architecture to its Meatspace location, feel free t
 #### NET Architecture Floors
 ##### The Lobby
 
-## Demons and Defenses
+## Demons
+>![[Demons]]

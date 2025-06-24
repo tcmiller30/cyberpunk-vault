@@ -1,7 +1,10 @@
 {
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "Custom Callouts"
+    "Custom Callouts",
+    "Disable Linked Highlight",
+    "Table Formatting",
+    "Header Spacing"
   ],
   "theme": "obsidian"
 }

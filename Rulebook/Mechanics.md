@@ -16,12 +16,7 @@ A measurement of actual distance, used in combat and when using miniatures. This
 ## Time and Initiative
 Cyberpunk RED uses two ways of measuring time. The first, **Roleplaying Time,** works just like it does in real life. The second, **Combat Time**, is far more exacting. Combat Time is divided into **Turns**, each of which takes approximately 3 seconds. The amount of time it takes each entity involved in the combat to take a Turn is a **Round**. Because Actions happen roughly simultaneously in game, one Round is also approximately 3 seconds long.
 
-### Initiative
-When combat starts, everybody rolls **Initiative**:
 
->[!info]- **Your Initiative Value = REF + 1d10**
-
-All participants in the combat place themselves according to their Initiative result into the Initiative Queue in descending order from highest score to lowest score. Resolve ties by rolling again. Combat proceeds in Initiative Queue order, with each entity in the Initiative Queue getting a Turn. When the bottom is reached, the Initiative Queue is repeated from the top in the same order.
 
 # On Your Turn
 

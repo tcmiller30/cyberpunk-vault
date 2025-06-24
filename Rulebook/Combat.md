@@ -1,3 +1,9 @@
+## Initiative
+When combat starts, everybody rolls **Initiative**:
+
+>[!info]- **Your Initiative Value = REF + 1d10**
+
+All participants in the combat place themselves according to their Initiative result into the Initiative Queue in descending order from highest score to lowest score. Resolve ties by rolling again. Combat proceeds in Initiative Queue order, with each entity in the Initiative Queue getting a Turn. When the bottom is reached, the Initiative Queue is repeated from the top in the same order.
 ## Move Action
 Every Turn, a Character gets a Move Action, which can only be used to move a number of m/yds equal to their MOVE x 2, or a number of squares (if playing on a grid) equal to their MOVE, which can include moving diagonally. If you are playing on a grid, you cannot stop in between the squares.
 ### Prone
@@ -193,7 +199,7 @@ Critical Injuries and their bonus damage are inflicted regardless of if any of t
 | <br><br>2  | <br>Dismembered Arm  | The Dismembered Arm is gone. You drop any items in that dismembered<br>arm's hand immediately. Base Death Save Penalty is increased by 1               | <br>N/A                     | <br><br>Surgery DV17                            |
 | <br><br>3  | <br>Dismembered Hand | The Dismembered Hand is gone. You drop any items in the dismembered<br>hand immediately. Base Death Save Penalty is increased by 1.                    | <br>N/A                     | <br><br>Surgery DV17                            |
 | <br>4      | Collapsed Lung       | -2 to MOVE (minimum 1)<br>**Base Death Save Penalty is increased by 1.**                                                                               | Paramedic DV15              | <br>Surgery DV15                                |
-| <br><br>5  | <br>Broken Ribs      | At the end of every Turn where you move further than 4m/yds on foot,<br>you re-suffer this Critical Injury's Bonus Damage directly to your Hit Points. | <br>Paramedic DV13          | <br><br>Paramedic DV15 or Surgery DV13          |
+| <br><br>5  | <br>Broken Ribs      | At the end of every Turn where you move further than 4m/yds on foot,<br>you re-suffer this Critical Injury's Bonus Damage directly to your Hit Points. | <br>Paramedic DV13          | <br>Paramedic DV15 or Surgery DV13              |
 | <br>6      | <br>Broken Arm       | The Broken Arm cannot be used. You drop any items in that arm's hand immediately.                                                                      | Paramedic DV13              | Paramedic DV15 or Surgery DV13                  |
 | <br><br>7  | <br>Foreign Object   | At the end of every Turn where you move further than 4m/yds on foot, you<br>re-suffer this Critical Injury's Bonus Damage directly to your Hit Points. | First Aid or Paramedic DV13 | <br>Quick Fix removes Injury Effect Permanently |
 | 8          | Broken Leg           | -4 to MOVE (minimum 1)                                                                                                                                 | Paramedic DV13              | Paramedic DV15 or Surgery DV13                  |

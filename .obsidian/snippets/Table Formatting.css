@@ -1,0 +1,7 @@
+.markdown-rendered td, .markdown-rendered th {
+    margin: 0,auto;
+    text-align: center;
+}
+body {
+    --heading-spacing : 1em;
+}
